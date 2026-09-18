@@ -27,3 +27,7 @@ libranger-jni.so
 # Binarios propietarios derivados del APK (NO redistribuir)
 libranger-deobf.so
 *-deobf.so
+
+# Colección Postman con credenciales reales (NO commitear; contiene key3des/tokens)
+*.postman_collection.json
+IPTV_Portal.postman_collection.json
